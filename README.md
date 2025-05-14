@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nathan Doe</h1>
-<h3 align="center">A passionate backend developer from Massachusetts</h3>
+<h3 align="center">A passionate developer from Massachusetts</h3>
 
-- 🌱 I’m currently learning **Spring Cloud & Kubernetes deployments**
+- 🌱 I’m currently learning **Agentic AI Frameworks**
 
 - 👨‍💻 All of my projects are available at [ndoe049](ndoe049)
 
